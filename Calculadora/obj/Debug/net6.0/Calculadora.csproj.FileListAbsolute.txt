@@ -1,0 +1,14 @@
+/home/caio_jordan/Documentos/Estudo/docNET/Trilha DIO/trilha-net-projeto-Final/Calculadora/bin/Debug/net6.0/Calculadora
+/home/caio_jordan/Documentos/Estudo/docNET/Trilha DIO/trilha-net-projeto-Final/Calculadora/bin/Debug/net6.0/Calculadora.deps.json
+/home/caio_jordan/Documentos/Estudo/docNET/Trilha DIO/trilha-net-projeto-Final/Calculadora/bin/Debug/net6.0/Calculadora.runtimeconfig.json
+/home/caio_jordan/Documentos/Estudo/docNET/Trilha DIO/trilha-net-projeto-Final/Calculadora/bin/Debug/net6.0/Calculadora.dll
+/home/caio_jordan/Documentos/Estudo/docNET/Trilha DIO/trilha-net-projeto-Final/Calculadora/bin/Debug/net6.0/Calculadora.pdb
+/home/caio_jordan/Documentos/Estudo/docNET/Trilha DIO/trilha-net-projeto-Final/Calculadora/obj/Debug/net6.0/Calculadora.GeneratedMSBuildEditorConfig.editorconfig
+/home/caio_jordan/Documentos/Estudo/docNET/Trilha DIO/trilha-net-projeto-Final/Calculadora/obj/Debug/net6.0/Calculadora.AssemblyInfoInputs.cache
+/home/caio_jordan/Documentos/Estudo/docNET/Trilha DIO/trilha-net-projeto-Final/Calculadora/obj/Debug/net6.0/Calculadora.AssemblyInfo.cs
+/home/caio_jordan/Documentos/Estudo/docNET/Trilha DIO/trilha-net-projeto-Final/Calculadora/obj/Debug/net6.0/Calculadora.csproj.CoreCompileInputs.cache
+/home/caio_jordan/Documentos/Estudo/docNET/Trilha DIO/trilha-net-projeto-Final/Calculadora/obj/Debug/net6.0/Calculadora.dll
+/home/caio_jordan/Documentos/Estudo/docNET/Trilha DIO/trilha-net-projeto-Final/Calculadora/obj/Debug/net6.0/refint/Calculadora.dll
+/home/caio_jordan/Documentos/Estudo/docNET/Trilha DIO/trilha-net-projeto-Final/Calculadora/obj/Debug/net6.0/Calculadora.pdb
+/home/caio_jordan/Documentos/Estudo/docNET/Trilha DIO/trilha-net-projeto-Final/Calculadora/obj/Debug/net6.0/Calculadora.genruntimeconfig.cache
+/home/caio_jordan/Documentos/Estudo/docNET/Trilha DIO/trilha-net-projeto-Final/Calculadora/obj/Debug/net6.0/ref/Calculadora.dll
